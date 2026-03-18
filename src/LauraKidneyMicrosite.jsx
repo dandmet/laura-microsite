@@ -103,11 +103,7 @@ ${window.location.href}`;
 
           <div className="rounded-[2rem] border border-white bg-white p-4 shadow-2xl shadow-rose-100">
             <div className="relative aspect-[4/5] overflow-hidden rounded-[1.5rem]">
-              <img
-                src="/laura.jpg"
-                alt="Laura"
-                className="h-full w-full object-cover"
-              />
+              <img src="/laura.jpg" alt="Laura" className="h-full w-full object-cover" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
               <div className="absolute bottom-4 left-4 right-4 text-white">
                 <p className="text-sm uppercase tracking-wide opacity-90">
@@ -129,7 +125,7 @@ ${window.location.href}`;
           </div>
         </section>
 
-               <div className="mx-auto max-w-3xl px-4 pb-8 text-center text-sm text-slate-600">
+        <div className="mx-auto max-w-3xl px-4 pb-8 text-center text-sm text-slate-600">
           Even if donating isn&apos;t possible, sharing this page could help Laura find the person
           who can save her life.
         </div>
@@ -145,7 +141,6 @@ ${window.location.href}`;
             </p>
           </div>
         </section>
-      
 
         <section id="story" className="mx-auto max-w-5xl px-4 py-10">
           <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
@@ -253,7 +248,7 @@ ${window.location.href}`;
             </div>
 
             <div className="mt-6 rounded-xl bg-white/10 p-4 text-sm leading-7 text-slate-100 whitespace-pre-line">
-{`A friend of mine urgently needs a living kidney donor.
+              {`A friend of mine urgently needs a living kidney donor.
 
 Laura is in Stage 5 kidney failure caused by Lupus and will soon begin dialysis while waiting for a transplant.
 
