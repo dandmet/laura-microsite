@@ -103,7 +103,11 @@ ${window.location.href}`;
 
           <div className="rounded-[2rem] border border-white bg-white p-4 shadow-2xl shadow-rose-100">
             <div className="relative aspect-[4/5] overflow-hidden rounded-[1.5rem]">
-              <img src="/laura.jpg" alt="Laura" className="h-full w-full object-cover" />
+              <img
+                src="/laura.jpg"
+                alt="Laura"
+                className="h-full w-full object-cover"
+              />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
               <div className="absolute bottom-4 left-4 right-4 text-white">
                 <p className="text-sm uppercase tracking-wide opacity-90">
