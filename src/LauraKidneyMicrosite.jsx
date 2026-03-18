@@ -145,87 +145,9 @@ ${window.location.href}`;
             </p>
           </div>
 
-          <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
-            <h3 className="text-2xl font-bold">Could I Be a Kidney Donor?</h3>
+          
 
-            <div className="mt-6 grid gap-4 md:grid-cols-2">
-              <div className="rounded-xl bg-slate-50 p-4">
-                <p className="font-semibold">You may be able to donate if you:</p>
-                <ul className="mt-2 space-y-1 text-sm text-slate-700">
-                  <li>• Are generally healthy</li>
-                  <li>• Are typically between 18–65</li>
-                  <li>• Want to learn more about living donation</li>
-                </ul>
-              </div>
-
-              <div className="rounded-xl bg-slate-50 p-4">
-                <p className="font-semibold">Important to know:</p>
-                <p className="mt-2 text-sm text-slate-700">
-                  You do not have to be Laura’s blood type to help. Programs like paired kidney
-                  exchange can sometimes match donors even if they are not a direct match.
-                </p>
-              </div>
-            </div>
-
-            <div className="mt-6">
-              <a
-                href={scrippsUrl}
-                target="_blank"
-                rel="noreferrer"
-                className="inline-flex rounded-xl bg-rose-600 px-5 py-3 text-sm font-semibold text-white shadow"
-              >
-                Learn More at Scripps Living Donor Program
-              </a>
-            </div>
-          </div>
-        </section>
-
-        <section className="mx-auto max-w-5xl px-4 pb-10">
-          <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
-            <h3 className="text-2xl font-bold">What Happens If I Decide to Learn More?</h3>
-
-            <div className="mt-6 grid gap-4 md:grid-cols-3">
-              <div className="rounded-xl bg-slate-50 p-4">
-                <p className="font-semibold">1. Visit the Scripps donor page</p>
-                <p className="mt-2 text-sm text-slate-700">
-                  You can read about living kidney donation and decide if learning more feels right for you.
-                </p>
-              </div>
-
-              <div className="rounded-xl bg-slate-50 p-4">
-                <p className="font-semibold">2. Complete a confidential screening</p>
-                <p className="mt-2 text-sm text-slate-700">
-                  If you choose, you can complete a short health questionnaire. This simply helps
-                  the transplant team see if donation might be possible.
-                </p>
-              </div>
-
-              <div className="rounded-xl bg-slate-50 p-4">
-                <p className="font-semibold">3. Decide what feels right</p>
-                <p className="mt-2 text-sm text-slate-700">
-                  There is no obligation to donate. The process is designed to help you learn and
-                  make the best decision for you.
-                </p>
-              </div>
-            </div>
-
-            <p className="mt-6 text-sm text-slate-600">
-              Learning more does not commit you to donating — it simply helps you see if living
-              kidney donation might be right for you.
-            </p>
-
-            <div className="mt-6">
-              <a
-                href={scrippsUrl}
-                target="_blank"
-                rel="noreferrer"
-                className="inline-flex rounded-xl bg-rose-600 px-5 py-3 text-sm font-semibold text-white shadow"
-              >
-                Learn More About Living Kidney Donation
-              </a>
-            </div>
-          </div>
-        </section>
+      
 
         <section id="story" className="mx-auto max-w-5xl px-4 py-10">
           <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
