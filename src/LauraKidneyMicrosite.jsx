@@ -129,7 +129,7 @@ ${window.location.href}`;
           </div>
         </section>
 
-        <div className="mx-auto max-w-3xl px-4 pb-8 text-center text-sm text-slate-600">
+               <div className="mx-auto max-w-3xl px-4 pb-8 text-center text-sm text-slate-600">
           Even if donating isn&apos;t possible, sharing this page could help Laura find the person
           who can save her life.
         </div>
@@ -145,11 +145,6 @@ ${window.location.href}`;
             </p>
           </div>
         </section>
-       
-        
-
-          
-
       
 
         <section id="story" className="mx-auto max-w-5xl px-4 py-10">
