@@ -210,20 +210,20 @@ ${window.location.href}`;
         </section>
 
         <section className="mx-auto max-w-5xl px-4 pb-10">
-          <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
-            <h3 className="text-2xl font-bold">Is Living Kidney Donation Safe?</h3>
+  <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
+    <h3 className="text-2xl font-bold">Is Living Kidney Donation Safe?</h3>
 
-            <p className="mt-4 leading-7 text-slate-700">
-              Thousands of people donate a kidney every year and continue to live full, healthy lives
-              with one kidney. Potential donors go through a thorough medical evaluation to help ensure
-              donation is safe for them.
-            </p>
+    <p className="mt-4 leading-7 text-slate-700">
+      Thousands of people donate a kidney every year and continue to live full, healthy lives
+      with one kidney. Potential donors go through a thorough medical evaluation to help ensure
+      donation is safe for them.
+    </p>
 
-            <p className="mt-3 text-slate-700">
-              All screening and testing is confidential and handled through the Scripps transplant team.
-            </p>
-          </div>
-        </section>
+    <p className="mt-3 text-slate-700">
+      All screening and testing is confidential and handled through the Scripps transplant team.
+    </p>
+  </div>
+</section>
 
         <section id="share" className="mx-auto max-w-5xl px-4 py-10">
           <div className="rounded-3xl bg-slate-900 p-8 text-white">
