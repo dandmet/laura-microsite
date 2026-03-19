@@ -201,7 +201,7 @@ ${window.location.href}`;
       </p>
 
       <p>
-        <strong>3. Share Laura’s Story</strong>
+        <strong>3. Share This — It Could Save Laura’s Life</strong>
         <br />
         Even if donating isn’t possible for you, sharing this page could help it reach the person who can save her life.
       </p>
