@@ -201,7 +201,7 @@ ${window.location.href}`;
       </p>
 
       <p>
-        <strong>3. Share This — It Could Save Laura’s Life</strong>
+        <strong>3. Share Laura’s Story</strong>
         <br />
         Even if donating isn’t possible for you, sharing this page could help it reach the person who can save her life.
       </p>
@@ -213,7 +213,7 @@ ${window.location.href}`;
         onClick={shareLauraStory}
         className="rounded-2xl bg-rose-600 px-6 py-4 text-base font-semibold text-white shadow-lg shadow-rose-200 transition hover:-translate-y-0.5"
       >
-        Share Laura’s Story
+        Share This — It Could Save Laura’s Life
       </button>
     </div>
 
