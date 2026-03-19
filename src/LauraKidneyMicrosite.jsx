@@ -184,30 +184,41 @@ ${window.location.href}`;
         </section>
 
         <section className="mx-auto max-w-5xl px-4 pb-10">
-          <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
-            <h3 className="text-2xl font-bold">How You Can Help Laura Today</h3>
+  <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
+    <h3 className="text-2xl font-bold">How You Can Help Laura Today</h3>
 
-            <div className="mt-6 space-y-4 text-slate-700">
-              <p>
-                <strong>1. Learn About Living Kidney Donation</strong>
-                <br />
-                Visit the official Scripps donor site to learn about the process and see if becoming a donor might be possible for you.
-              </p>
+    <div className="mt-6 space-y-4 text-slate-700">
+      <p>
+        <strong>1. Learn About Living Kidney Donation</strong>
+        <br />
+        Visit the official Scripps donor site to learn about the process and see if becoming a donor might be possible for you.
+      </p>
 
-              <p>
-                <strong>2. You Don’t Have to Be a Match</strong>
-                <br />
-                Even if your blood type isn’t compatible, paired kidney exchange programs may still allow your donation to help Laura receive a kidney.
-              </p>
+      <p>
+        <strong>2. You Don’t Have to Be a Match</strong>
+        <br />
+        Even if your blood type isn’t compatible, paired kidney exchange programs may still allow your donation to help Laura receive a kidney.
+      </p>
 
-              <p>
-                <strong>3. Share Laura’s Story</strong>
-                <br />
-                Even if donating isn’t possible for you, sharing this page could help it reach the person who can save her life.
-              </p>
-            </div>
-          </div>
-        </section>
+      <p>
+        <strong>3. Share Laura’s Story</strong>
+        <br />
+        Even if donating isn’t possible for you, sharing this page could help it reach the person who can save her life.
+      </p>
+    </div>
+
+    <div className="mt-8 flex justify-center">
+      <button
+        type="button"
+        onClick={shareLauraStory}
+        className="rounded-2xl bg-rose-600 px-6 py-4 text-base font-semibold text-white shadow-lg shadow-rose-200 transition hover:-translate-y-0.5"
+      >
+        Share Laura’s Story
+      </button>
+    </div>
+
+  </div>
+</section>
 
         <section className="mx-auto max-w-5xl px-4 pb-10">
   <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
@@ -225,43 +236,7 @@ ${window.location.href}`;
   </div>
 </section>
 
-        <section id="share" className="mx-auto max-w-5xl px-4 py-10">
-          <div className="rounded-3xl bg-slate-900 p-8 text-white">
-            <h3 className="text-2xl font-bold">Share Laura’s Story</h3>
-
-            <p className="mt-4 text-slate-200">
-              Most living kidney donors are found through personal networks. Sharing Laura’s story
-              could help it reach the person who can save her life.
-            </p>
-
-            <div className="mt-6 flex flex-wrap gap-3">
-              <button
-                type="button"
-                onClick={shareLauraStory}
-                className="rounded-xl bg-rose-600 px-5 py-3 text-sm font-semibold text-white shadow"
-              >
-                Share Laura’s Story
-              </button>
-              <button
-                type="button"
-                onClick={copyShareMessage}
-                className="rounded-xl bg-white/10 px-5 py-3 text-sm font-semibold text-white ring-1 ring-white/20"
-              >
-                Copy Message
-              </button>
-            </div>
-
-            <div className="mt-6 rounded-xl bg-white/10 p-4 text-sm leading-7 text-slate-100 whitespace-pre-line">
-              {`A friend of mine urgently needs a living kidney donor.
-
-Laura is in Stage 5 kidney failure caused by Lupus and will soon begin dialysis while waiting for a transplant.
-
-Because her blood type is O+, the wait for a deceased donor kidney in Southern California can be 7–10 years.
-
-If you are willing to learn about living kidney donation, or even just share her story, please visit this page.`}
-            </div>
-          </div>
-        </section>
+       
       </main>
 
       <div className="fixed bottom-0 left-0 right-0 z-40 border-t border-slate-200 bg-white p-3 md:hidden">
