@@ -151,37 +151,40 @@ ${window.location.href}`;
             <h3 className="mb-4 text-2xl font-bold">Laura’s Story</h3>
 
             <p className="leading-7 text-slate-700">
-              Laura urgently needs a living kidney donor. After years of living with autoimmune
-              disease, Lupus has caused her kidneys to fail and she is now in Stage 5 kidney failure.
+              Laura urgently needs a living kidney donor. After years of battling autoimmune
+              disease, Lupus has caused irreversible kidney damage, leaving her with Stage 5 kidney disease.
+            </p>
+
+            
+            <p className="mt-4 leading-7 text-slate-700">
+               Laura has spent many years managing Rheumatoid Arthritis and Lupus with resilience and
+               determination. Despite the challenges of chronic illness, she continues to focus on the
+               things that matter most to her — family, connection, and appreciating each day she is given.
             </p>
 
             <p className="mt-4 leading-7 text-slate-700">
-              Laura has spent many years managing Rheumatoid Arthritis and Lupus with resilience and
-              determination. Despite the challenges of chronic illness, she continues to focus on the
-              things that matter most to her — family, connection, and appreciating each day she is given.
+               Laura is now undergoing dialysis as she waits for a kidney transplant.
+               Although dialysis helps keep her alive, it is not a cure for kidney failure.
             </p>
 
             <p className="mt-4 leading-7 text-slate-700">
-              Her doctors have scheduled surgery for dialysis soon while she waits for a transplant.
+               Because Laura’s blood type is O+, the wait for a deceased donor kidney in Southern
+               California can often be 7–10 years — time she may not have.
             </p>
 
             <p className="mt-4 leading-7 text-slate-700">
-              Because Laura’s blood type is O+, the wait for a deceased donor kidney in Southern
-              California can often be 7–10 years — time she may not have.
-            </p>
-
-            <p className="mt-4 leading-7 text-slate-700">
-              A living kidney donor could save Laura’s life and give her the chance to regain her
-              strength, travel, and spend meaningful time with the people she loves.
+               A living kidney donor could give Laura the gift of life — the chance to regain her
+               strength, travel, and spend meaningful time with the people she loves.
             </p>
 
             <p className="mt-4 leading-7 font-medium text-slate-700">
-              If you are willing to learn more about becoming a living kidney donor, please visit the
-              official Scripps donor page linked on this site. Even if donating isn’t possible for you,
-              sharing Laura’s story could help it reach the person who can help.
+               If you are willing to learn more about becoming a living kidney donor, please visit the
+               official Scripps donor page linked on this site. Even if donating isn’t possible for you,
+               sharing Laura’s story could help it reach the person who can help.
             </p>
           </div>
         </section>
+
 
         <section className="mx-auto max-w-5xl px-4 pb-10">
   <div className="rounded-3xl bg-white p-8 shadow ring-1 ring-slate-200">
