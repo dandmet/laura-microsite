@@ -157,13 +157,13 @@ ${window.location.href}`;
 
             
             <p className="mt-4 leading-7 text-slate-700">
-               Laura has spent many years managing Rheumatoid Arthritis and Lupus with resilience and
+               For many years, she has managed Rheumatoid Arthritis and Lupus with resilience and
                determination. Despite the challenges of chronic illness, she continues to focus on the
-               things that matter most to her — family, connection, and appreciating each day she is given.
+               things that matter most to her: family, connection, and appreciating each day she is given.
             </p>
 
             <p className="mt-4 leading-7 text-slate-700">
-               Laura is now undergoing dialysis as she waits for a kidney transplant.
+               She is now undergoing dialysis as she waits for a kidney transplant.
                Although dialysis helps keep her alive, it is not a cure for kidney failure.
             </p>
 
@@ -173,7 +173,7 @@ ${window.location.href}`;
             </p>
 
             <p className="mt-4 leading-7 text-slate-700">
-               A living kidney donor could give Laura the gift of life — the chance to regain her
+               A living kidney donor could give her the gift of life and the chance to regain her
                strength, travel, and spend meaningful time with the people she loves.
             </p>
 
